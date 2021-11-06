@@ -20,7 +20,7 @@ projects made using java language.
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Heranca_2)
 
-## Livrária com POO<a name="id04"></a>
+## Livraria com POO<a name="id04"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Livro)
 
