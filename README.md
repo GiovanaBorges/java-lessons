@@ -7,6 +7,8 @@ projects made using java language.
 - [Cargos](#id03)
 - [Livraria](#id04)
 - [Média final](#id05)
+- [mámiferos](#id06)
+- [Video](#id07)
 
 ## Simulação de banco usando POO<a name="id01"></a>
 
@@ -27,3 +29,11 @@ projects made using java language.
 ## Média final com POO <a name="id05"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/media)
+
+## Média final com POO <a name="id06"></a>
+
+[My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Mamiferos)
+
+## Video <a name="id07"></a>
+
+[My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Video)
