@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Animal_classes/Animal_classes.iml" filepath="$PROJECT_DIR$/Animal_classes/Animal_classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Livraria/Livraria.iml" filepath="$PROJECT_DIR$/Livraria/Livraria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Livraria/Livraria-papelaria.iml" filepath="$PROJECT_DIR$/Livraria/Livraria-papelaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mamiferos/Mamiferos.iml" filepath="$PROJECT_DIR$/Mamiferos/Mamiferos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-lessons.iml" filepath="$PROJECT_DIR$/.idea/java-lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video/video.iml" filepath="$PROJECT_DIR$/Video/video.iml" />
