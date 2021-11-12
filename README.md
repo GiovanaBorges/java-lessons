@@ -30,9 +30,6 @@ projects made using java language.
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/media)
 
-## Média final com POO <a name="id06"></a>
-
-[My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Mamiferos)
 
 ## Video <a name="id07"></a>
 
