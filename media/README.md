@@ -14,7 +14,7 @@ final calcula quanto o aluno precisa para a prova final (retorna zero se ele nã
 
 ### Link do arquivo com a questão
 
-[Linkaqui](https://drive.google.com/file/d/1_TZBMRkLT33NW4cT-Ze4sxV1jXWJoi6v/view?usp=sharing)
+[Linkaqui](https://www.ic.unicamp.br/~santanch/teaching/oop/2015-1/exercicios/poo-exercicios-02-classes-v01.pdf)
 
 ## Author
 
