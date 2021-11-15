@@ -5,10 +5,11 @@ projects made using java language.
 - [BancoPOO](#id01)
 - [ControleRemotoPOO](#id02)
 - [Cargos](#id03)
-- [Livraria](#id04)
-- [Média final](#id05)
-- [mámiferos](#id06)
+- [Gabarito](#id04)
+- [Livraria](#id05)
+- [Média final](#id06)
 - [Video](#id07)
+- [mámiferos](#id08)
 
 ## Simulação de banco usando POO<a name="id01"></a>
 
@@ -22,18 +23,22 @@ projects made using java language.
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Heranca_2)
 
-## Livraria com POO<a name="id04"></a>
+## Gabarito de prova <a name="id04"></a>
+
+[My code](https://github.com/GiovanaBorges/java-lessons/tree/main/gabarito)
+
+## Livraria com POO<a name="id05"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Livro)
 
-## Média final com POO <a name="id05"></a>
+## Média final com POO <a name="id06"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/media)
 
-## Média final com POO <a name="id06"></a>
+## Média final com POO <a name="id07"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Mamiferos)
 
-## Video <a name="id07"></a>
+## Video <a name="id08"></a>
 
 [My code](https://github.com/GiovanaBorges/java-lessons/tree/main/Video)
